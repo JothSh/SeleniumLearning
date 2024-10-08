@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Result" verbose="2">
+<test name="dummy">
+
+<parameter name="Name" value="Jotheesh"></parameter>
+
+<!-- <groups>
+<run>
+     <include name="ferrari"></include>
+     <include name="bmw"></include>
+</run>
+</groups> -->
+<classes>
+<class name = "onesample.ParameterizationExample">
+</class>
+<!-- <class name="onesample.DependenciesManagement"></class>
+<class name="onesample.SkipATestCase"></class>
+<class name="onesample.SuiteExample"></class>
+<class name="onesample.Testing"></class>
+ -->
+
+
+
+
+
+
+
+
+
+
+</classes>
+</test>
+</suite>
